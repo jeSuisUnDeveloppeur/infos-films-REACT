@@ -1,0 +1,21 @@
+.film {
+    display: flex ;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    margin: 15px ;
+    border: 1px solid black ;
+}
+
+.film img {
+    width: 250px;
+    padding: 5px;
+}
+
+h3{
+width: 100%;
+}
+
+p{
+text-align: left;
+width: 80%;  
+}
